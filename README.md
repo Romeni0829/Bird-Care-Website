@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<--!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -224,12 +224,10 @@
 
       <img src="https://t4.ftcdn.net/jpg/06/29/66/03/360_F_629660322_BesyvD4xD3ZUnXPyUlD7Vw6Q8L09ctLk.jpg" alt="Bird photo"/>
 <br>
-
       <img src="https://birdlifedata.blob.core.windows.net/species-images/200296187.jpg" alt="Birdlife data"/>
-
       <img src="https://images.stockcake.com/public/b/4/1/b4172cd4-8fb0-471c-ba54-1bfa82a3ba62_large/bird-splashing-water-stockcake.jpg" alt="Splashing bird"/>
 
-      <img src="Cage and Aviary Bird Products.png" alt="Aviary"/>
+  <img src="/website images/Cage and Aviary Bird Products.png" alt="Aviary"/>
 <br>
 
       <img src="Pigeon Products.png" alt="Pigeon"/>
